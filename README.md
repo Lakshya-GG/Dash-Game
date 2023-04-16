@@ -18,8 +18,8 @@ To play the Dash Game, you need to have a compatible web browser. Simply navigat
 ## Controls 🎮
 
 <ul>
-    <li> Use the up arrow key to 
-accelerate your Car. </li>
+    <li> Press ' C ' on your Keyboard to insert a coin. </li>
+    <li> Use the up arrow key to accelerate your Car. </li>
     <li> Use the down arrow key to decelerate your Car. </li>
     <li> Use the left arrow key to move your Car left. </li>
     <li> Use the right arrow key to move your Car right. </li>
